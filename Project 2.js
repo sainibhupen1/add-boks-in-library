@@ -1,10 +1,3 @@
-console.log("This is index.js");
-
-//Todos"
-//1.store all the data to the local storage
-//2.give another column as an option to delete the book
-//3.ad a scroll bar to the view
-
 //Constructor
 function Book(name, author, type) {
     this.name = name;
